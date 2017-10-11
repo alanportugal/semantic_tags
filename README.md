@@ -1,6 +1,4 @@
-README.md
-UW_2017_Q4_HW01
-Due: Thursday, October 12, 2017 08:00AM
+README.md - UW_2017_Q4_HW01 - Due: Thursday, October 12, 2017 08:00AM
 
 Create a new Git repository on your computer called "semantic_tags". Within it, create an HTML document (any name you like) that uses at least 15 different types of HTML tags. Use any you like, but they must be used properly- if you are new to HTML I would recommend avoiding table elements. The topic and content of the document can be of your choosing (a bio page for yourself or someone else is a good default topic). Push your repository up to Github, and submit the URL of the repository.
 
